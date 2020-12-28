@@ -7,7 +7,7 @@ Created on Mon Dec 28 10:09:44 2020
 Trying out the Elo rating system
 """
 
-# use number for random numbers
+# use numpy for random numbers
 import numpy as np
 
 
