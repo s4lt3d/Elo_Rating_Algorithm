@@ -14,8 +14,12 @@ At the end of the tournament, only the highest skilled players remain.
 
 In this example of 100 players, players with skills 90-99 make it to the top 10.
 
-### Example output from the script
+#### To run the script
 
+```python
+python elo_rating_system.py
+```
+#### Example output from the script
 ```python
 Best Players
 {'name': 'Viciko', 'skill': 91, 'wins': 16, 'losses': 8, 'points': 34518, 'rating': 1571}
