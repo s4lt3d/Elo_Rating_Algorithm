@@ -8,10 +8,11 @@ https://en.wikipedia.org/wiki/Elo_rating_system
 
 ## Simple Example Tournament with Elo ratings
 
-This example create 100 players with skill levels of 0-99.
+This example create 100 players with skill levels of 0-99. Skills in the example are simple an integer. If one player's skill (integer) is higher than the other, that player wins.
 After each round in the tournament, 20% of the lowest players are dropped.
 At the end of the tournament, only the highest skilled players remain. 
-In the example of 100 players, players with skills 90-99 make the top 10
+
+In this example of 100 players, players with skills 90-99 make it to the top 10.
 
 ### Example output from the script
 
